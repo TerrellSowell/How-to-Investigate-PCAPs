@@ -1,3 +1,4 @@
+![image](https://github.com/TerrellSowell/Troubleshooting-Cisco-Route/assets/161978506/d856b883-6a96-4c70-a067-bf866a657128)
 # How to Troubleshoot a Cisco Router
 
 ## Objective
